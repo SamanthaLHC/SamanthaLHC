@@ -1,9 +1,8 @@
 
 <div align="center">
 
-| | |
-| --- | --- |
-| <img height="150" src="https://github-readme-stats.vercel.app/api?username=SamanthaLHC&show_icons=true&theme=dark"> | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaLHC&theme=dark&layout=compact"> |
+
+ <img height="150" src="https://github-readme-stats.vercel.app/api?username=SamanthaLHC&show_icons=true&theme=dark">  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaLHC&theme=dark&layout=compact"> 
 
 </div>
 
