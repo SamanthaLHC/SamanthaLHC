@@ -1,10 +1,14 @@
+
 <div align="center">
- <a href="www.linkedin.com/in/samantha-le-huec">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
+ 
+|             |             |
+| ----------- | ----------- |
+| ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SamanthaLHC&show_icons=true)  |    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaLHC&theme=blue-green) |
+ 
+
 </div>
 
-- - -
+  - - - 
 
   <h5> languages </h5>
     
@@ -28,14 +32,3 @@
   
 ![are neat](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaLHC&theme=blue-green)
-
-- - - 
-
-<div align="center">
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SamanthaLHC&show_icons=true)
-</div>
-
