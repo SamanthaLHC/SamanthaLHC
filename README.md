@@ -1,9 +1,12 @@
 
 <div align="center">
- 
-|             |             |
-| ----------- | ----------- |
-| ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SamanthaLHC&show_icons=true)  |    ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaLHC&theme=blue-green) |
+
+| | |
+| --- | --- |
+| <img height="150" src="https://github-readme-stats.vercel.app/api?username=SamanthaLHC&show_icons=true&theme=dark"> | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamanthaLHC&theme=dark&layout=compact"> |
+
+</div>
+
  
 
 </div>
